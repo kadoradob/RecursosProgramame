@@ -1,4 +1,5 @@
 # Consejos para tu primer concurso
+Primer comentario
 0. **Vamos para divertirnos** y aprender lo que es trabajar en un ambiente de estres con un equipo multi-talento. Puedes aprender Organizacion orientada a objetivos, Gestion del tiempo, Trabajo en Equipo, Analisis a priori de programas, Velocidad y Afianzar el uso de estructuras y metodologias.
 1. Coge la plantilla, leela y comprendela. Es recomendable que la leas junto a la guia del concurso de Programame para que puedas ir 
 relacionando tipos de entrada, forma de entrada, etc. 
